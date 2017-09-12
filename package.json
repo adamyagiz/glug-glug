@@ -1,0 +1,22 @@
+{
+  "name": "glug-glug",
+  "version": "0.0.1",
+  "description": "Pluralsight NPM Playbook sample repo",
+  "main": "glug-glug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamyagiz/glug-glug.git"
+  },
+  "keywords": [
+    "glug-glug"
+  ],
+  "author": "Adam Yagiz <akyagiz@gmail.com> (https://adamyagiz.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamyagiz/glug-glug/issues"
+  },
+  "homepage": "https://github.com/adamyagiz/glug-glug#readme"
+}
