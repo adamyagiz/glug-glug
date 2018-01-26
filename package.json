@@ -1,6 +1,6 @@
 {
   "name": "glug-glug",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Pluralsight NPM Playbook sample repo",
   "main": "glug-glug.js",
   "scripts": {
